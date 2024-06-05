@@ -7,4 +7,4 @@ How can we find value in that data? Well, now we have to merge the two datasets 
 What have been done here:
 - Structured a data engeneering project;
 - Read data with JSON library;  
-- 
+- Read data with CSV library;
